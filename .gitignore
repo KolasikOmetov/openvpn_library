@@ -3,3 +3,4 @@
 /vpnLib/src/main/java/de/blinkt/openvpn/core/*.aidl
 /vpnLib/build/
 local.properties
+/vpnLib/src/main/jniLibs_old/
